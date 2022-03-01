@@ -1,0 +1,18 @@
+
+
+h1{
+    color:rgba(146, 68, 190, 0.959);
+}
+*{
+    border:solid;
+}
+.encabezado{
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    justify-content:space-between;
+}
+.juegos{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
